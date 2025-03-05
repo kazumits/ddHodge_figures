@@ -1,0 +1,8 @@
+fucci_RNAData.loom
+fucci_pca_k12_d4.jld2
+scvelo_fucci.h5ad
+scvelo_vasa_all.h5ad
+scvelo_vasa_all_vanilla.h5ad
+notebook/.ipynb_checkpoints/
+notebook/cache/
+vasa
