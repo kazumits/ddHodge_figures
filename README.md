@@ -22,6 +22,8 @@ The basic usage of `H5ADHelper.jl` is also explained in [ddHodge.jl](https://git
 
 ## Figures
 
+These figures were produced using ddHodge ([version 0.7.0](https://github.com/kazumits/ddHodge.jl/releases/tag/v0.7.0)).
+
 ### Figure 1
 
 Showing an example of artificial dynamics in 3D and performing velocity embedding:
@@ -53,6 +55,8 @@ The RNA velocities were calculated as follows:
 
 * [notebook/scvelo_fucci.ipynb](notebook/scvelo_fucci.ipynb)
 * [notebook/scvelo_vasa.ipynb](notebook/scvelo_vasa.ipynb)
+
+The RNA velocity was calculated using scvelo (version 0.3.2).
 
 ## Data availability
 
