@@ -1,6 +1,6 @@
 # Figures of ddHodge 
 
-This repository provides the Jupyter notebooks that reproduce the results in our preprint of ddHodge [TBA].
+This repository provides the Jupyter notebooks that reproduce the results in [our preprint of ddHodge](https://www.biorxiv.org/content/10.1101/2025.04.16.649050v1).
 
 The Julia package of ddHodge is available at [ddHodge.jl](https://github.com/kazumits/ddHodge.jl).
 
