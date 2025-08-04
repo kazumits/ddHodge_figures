@@ -28,7 +28,7 @@ end
 function insertddh(adfile,ddh;keys=[:u,:div,:rot,:vgrass],prefix="ddh_")
     h5open(adfile,"r+") do fd
         for k in keys
-            writeobs(fd,"prefix$(k)", getfield(ddh,k))
+            writeobs(fd,"$(prefix)$(k)", getfield(ddh,k))
         end
     end
 end
