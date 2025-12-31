@@ -68,7 +68,7 @@ For Figures 1-3, the notebooks are self-contained. No additional files are requi
 
 For Figures 4-5, some of the public data are needed to reproduce our results. The small size (< 20MB) of the pre-processed data has been uploaded to the [data](data/) directory.
 
-The processed data including ddHodge results of VASA-seq and regenerating muscle tissue datasets are available at Figshare [TBA].
+The processed data including ddHodge results of VASA-seq and regenerating muscle tissue datasets are available at [Figshare](https://doi.org/10.6084/m9.figshare.28723652).
 
 The original datasets not included in this repository are availabel at:
 
